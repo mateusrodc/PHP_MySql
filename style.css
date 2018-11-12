@@ -1,0 +1,16 @@
+body{width:615px;font-family:arial;}
+.tbl-qa{width: 100%;font-size:0.9em;background-color: #6ab5b9;border-spacing: 1px;border-radius: 4px;}
+.tbl-qa th.table-header {padding: 5px;text-align: left;padding:10px;color:#FFF;font-weight:normal;}
+.tbl-qa .table-row td {padding:10px;background-color: #ebf6f7;vertical-align:top;}
+.button_link {padding: 20px 0px;text-align: right;}
+.button_link a{color: #428a8e;text-decoration: none;background-color: FFF;padding: 8px 20px;font-size: 0.8em;border: #428a8e 1px solid;    border-radius: 4px;}
+.message {
+	color: #FF0000;
+	text-align: center;
+	width: 100%;
+}
+.txtField {padding: 8px;border: #afced0 1px solid;border-radius: 4px;width: 250px;}
+.demo-form-submit {color: #FFF;background-color: #4e7173;padding: 10px 50px;border: 0px;cursor: pointer;border-radius:4px;}
+.message { padding:8px 10px;box-sizing: border-box;text-align: left;border-radius: 4px;}
+.success {background-color: #c4e4c4;border: #9ac19a 1px solid;color: #4b8e4b;}
+.error {background-color: #e4cbc4;border: #c19c9a 1px solid;color: #8e4e4b;}
